@@ -1,4 +1,4 @@
-pp "What's your name?"
+puts "What's your name?"
 
 name = gets 
 
